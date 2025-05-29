@@ -1,0 +1,16 @@
+This mod adds:
+1 Boss,
+1 Enemy,
+2 WorkStations,
+1 Ore,
+10+ crafting recipes, 
+5+ weapons
+
+This mod is still in development.
+thanks to ssobedevad for most of the sprites
+
+_________
+changes:
+added Frost bow,
+Added Nightmare Ore,
+Major recipe changes

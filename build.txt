@@ -1,0 +1,3 @@
+displayName = TerraLords Mod
+author = dandaboss_709
+version = 0.2.5
